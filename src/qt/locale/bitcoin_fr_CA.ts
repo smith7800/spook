@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About GhostCoin</source>
-        <translation>Au sujet de GhostCoin</translation>
+        <source>About Spook</source>
+        <translation>Au sujet de Spook</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;GhostCoin&lt;/b&gt; version</source>
-        <translation>Version de &lt;b&gt;GhostCoin&lt;/b&gt;</translation>
+        <source>&lt;b&gt;Spook&lt;/b&gt; version</source>
+        <translation>Version de &lt;b&gt;Spook&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The GhostCoin developers</source>
+Copyright © 2014 The Spook developers</source>
         <translation>Copyright © 2009-2014 Les développeurs Bitcoin
 Copyright © 2012-2014 Les développeurs NovaCoin
-Copyright © 2014 Les développeurs GhostCoin</translation>
+Copyright © 2014 Les développeurs Spook</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,7 +65,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your GhostCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your Spook addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>Ce sont vos adresses pour recevoir vos paiements. Vous pouvez utiliser une adresse différente pour chaque réception afin d&apos;identifier facilement le payeur.</translation>
     </message>
     <message>
@@ -80,8 +80,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a GhostCoin address</source>
-        <translation>Signer un message afin de valider l&apos;identité de votre adresse GhostCoin</translation>
+        <source>Sign a message to prove you own a Spook address</source>
+        <translation>Signer un message afin de valider l&apos;identité de votre adresse Spook</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified GhostCoin address</source>
-        <translation>Vérifier un message pour s&apos;assurer qu&apos;il vient d&apos;un adresse GhostCoin spécifique.</translation>
+        <source>Verify a message to ensure it was signed with a specified Spook address</source>
+        <translation>Vérifier un message pour s&apos;assurer qu&apos;il vient d&apos;un adresse Spook spécifique.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -237,7 +237,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR COINS&lt;/b&gt;!</source>
-        <translation>ATTENTION : Si vous cryptez votre portefeuille et perdez votre passphrase, vous ne pourrez plus accéder à vos GhostCoins</translation>
+        <translation>ATTENTION : Si vous cryptez votre portefeuille et perdez votre passphrase, vous ne pourrez plus accéder à vos Spooks</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -263,8 +263,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>GhostCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>L&apos;application GhostCoin va désormais se terminer afin de finaliser le processus de cryptage. Merci de noter que le cryptage du portefeuille ne garantit pas de se prémunir du vol via l&apos;utilisation de malware, qui auraient pu infecter votre ordinateur. </translation>
+        <source>Spook will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>L&apos;application Spook va désormais se terminer afin de finaliser le processus de cryptage. Merci de noter que le cryptage du portefeuille ne garantit pas de se prémunir du vol via l&apos;utilisation de malware, qui auraient pu infecter votre ordinateur. </translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about GhostCoin</source>
-        <translation>Afficher des informations au sujet du GhostCoin</translation>
+        <source>Show information about Spook</source>
+        <translation>Afficher des informations au sujet du Spook</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a GhostCoin address</source>
-        <translation>Envoyer des monnaies vers une adresse GhostCoin</translation>
+        <source>Send coins to a Spook address</source>
+        <translation>Envoyer des monnaies vers une adresse Spook</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for GhostCoin</source>
-        <translation>Modification des options de configuration de GhostCoin</translation>
+        <source>Modify configuration options for Spook</source>
+        <translation>Modification des options de configuration de Spook</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-200"/>
-        <source>GhostCoin</source>
-        <translation>GhostCoin</translation>
+        <source>Spook</source>
+        <translation>Spook</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About GhostCoin</source>
-        <translation>A propos de GhostCoin</translation>
+        <source>&amp;About Spook</source>
+        <translation>A propos de Spook</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>GhostCoin client</source>
-        <translation>Client GhostCoin</translation>
+        <source>Spook client</source>
+        <translation>Client Spook</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to GhostCoin network</source>
-        <translation><numerusform>%n connexion active au réseau GhostCoin</numerusform><numerusform>%n connexions actives au réseau GhostCoin</numerusform></translation>
+        <source>%n active connection(s) to Spook network</source>
+        <translation><numerusform>%n connexion active au réseau Spook</numerusform><numerusform>%n connexions actives au réseau Spook</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -659,8 +659,8 @@ Adresse : %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid GhostCoin address or malformed URI parameters.</source>
-        <translation>L&apos;adresse du portefeuille GhostCoin n&apos;as pas pu être correctement identifiée, car invalide ou malformée.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Spook address or malformed URI parameters.</source>
+        <translation>L&apos;adresse du portefeuille Spook n&apos;as pas pu être correctement identifiée, car invalide ou malformée.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -719,8 +719,8 @@ Adresse : %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. GhostCoin can no longer continue safely and will quit.</source>
-        <translation>Une erreur fatale a été rencontrée. L&apos;application GhostCoin ne peut plus être s&apos;exécuter de façon correcte et doit se terminer.</translation>
+        <source>A fatal error occurred. Spook can no longer continue safely and will quit.</source>
+        <translation>Une erreur fatale a été rencontrée. L&apos;application Spook ne peut plus être s&apos;exécuter de façon correcte et doit se terminer.</translation>
     </message>
 </context>
 <context>
@@ -1053,8 +1053,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid GhostCoin address.</source>
-        <translation>L&apos;adresse &quot;%1&quot; renseignée n&apos;est pas une adresse GhostCoin valide.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Spook address.</source>
+        <translation>L&apos;adresse &quot;%1&quot; renseignée n&apos;est pas une adresse Spook valide.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1072,8 +1072,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>GhostCoin-Qt</source>
-        <translation>GhostCoin-Qt</translation>
+        <source>Spook-Qt</source>
+        <translation>Spook-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1145,13 +1145,13 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start GhostCoin after logging in to the system.</source>
-        <translation>Démarrage automatique du client GhostCoin lors de la connexion au système</translation>
+        <source>Automatically start Spook after logging in to the system.</source>
+        <translation>Démarrage automatique du client Spook lors de la connexion au système</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start GhostCoin on system login</source>
-        <translation>&amp;Démarrage du client GhostCoin à la connexion au système</translation>
+        <source>&amp;Start Spook on system login</source>
+        <translation>&amp;Démarrage du client Spook à la connexion au système</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1170,8 +1170,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the GhostCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Ouverture automatique du port client de GhostCoin sur le routeur. Ceci ne fonctionne que dans le cas où le support UPnP sur votre routeur existe et est actif.</translation>
+        <source>Automatically open the Spook client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Ouverture automatique du port client de Spook sur le routeur. Ceci ne fonctionne que dans le cas où le support UPnP sur votre routeur existe et est actif.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1180,8 +1180,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the GhostCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connexion au réseau GhostCoin à travers un proxy SOCKS (e.g. Connexion via le réseau Tor).</translation>
+        <source>Connect to the Spook network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connexion au réseau Spook à travers un proxy SOCKS (e.g. Connexion via le réseau Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1255,8 +1255,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting GhostCoin.</source>
-        <translation>La langue d&apos;interface de de l&apos;utilisateur peut être définie ici. Ces modification seront effectives après redémarrage de l&apos;application GhostCoin</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Spook.</source>
+        <translation>La langue d&apos;interface de de l&apos;utilisateur peut être définie ici. Ces modification seront effectives après redémarrage de l&apos;application Spook</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1270,8 +1270,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show GhostCoin addresses in the transaction list or not.</source>
-        <translation>Afficher les adresses GhostCoin au sein de la liste de transactions</translation>
+        <source>Whether to show Spook addresses in the transaction list or not.</source>
+        <translation>Afficher les adresses Spook au sein de la liste de transactions</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1317,8 +1317,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting GhostCoin.</source>
-        <translation>Les paramètres prendront effet après redémarrage du client GhostCoin</translation>
+        <source>This setting will take effect after restarting Spook.</source>
+        <translation>Les paramètres prendront effet après redémarrage du client Spook</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1336,8 +1336,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the GhostCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Les informations affichées peuvent être obsolètes. Votre portefeuille se synchronise automatiquement avec le réseau GhostCoin mais ce processus n&apos;est pas encore terminé.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Spook network after a connection is established, but this process has not completed yet.</source>
+        <translation>Les informations affichées peuvent être obsolètes. Votre portefeuille se synchronise automatiquement avec le réseau Spook mais ce processus n&apos;est pas encore terminé.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1552,8 +1552,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the GhostCoin-Qt help message to get a list with possible GhostCoin command-line options.</source>
-        <translation>Afficher le message d&apos;aide GhostCoin-Qt afin d&apos;obtenir la liste des options de de L&apos;outil en ligne de commande GhostCoin</translation>
+        <source>Show the Spook-Qt help message to get a list with possible Spook command-line options.</source>
+        <translation>Afficher le message d&apos;aide Spook-Qt afin d&apos;obtenir la liste des options de de L&apos;outil en ligne de commande Spook</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1572,13 +1572,13 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="-104"/>
-        <source>GhostCoin - Debug window</source>
-        <translation>GhostCoin - Fenêtre de déboggage</translation>
+        <source>Spook - Debug window</source>
+        <translation>Spook - Fenêtre de déboggage</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>GhostCoin Core</source>
-        <translation>GhostCoin Core</translation>
+        <source>Spook Core</source>
+        <translation>Spook Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1587,8 +1587,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the GhostCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Ouvrir le fichier journal de debug GhostCoin au sein du répertoire courant. Cette opération peut prendre quelques secondes dans le cas de fichiers journaux volumineux.</translation>
+        <source>Open the Spook debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Ouvrir le fichier journal de debug Spook au sein du répertoire courant. Cette opération peut prendre quelques secondes dans le cas de fichiers journaux volumineux.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1597,8 +1597,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the GhostCoin RPC console.</source>
-        <translation>Bienvenue sur la console GhostCoin RPC.</translation>
+        <source>Welcome to the Spook RPC console.</source>
+        <translation>Bienvenue sur la console Spook RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1671,8 +1671,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 GHOST</source>
-        <translation>123.456 GHOST {0.00 ?}</translation>
+        <source>0.00 SPOOK</source>
+        <translation>123.456 SPOOK {0.00 ?}</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1741,8 +1741,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 GHOST</source>
-        <translation>123.456 GHOST</translation>
+        <source>123.456 SPOOK</source>
+        <translation>123.456 SPOOK</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1756,8 +1756,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a GhostCoin address (e.g. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</source>
-        <translation>Entrer une adresse GhostCoin (e.g. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</translation>
+        <source>Enter a Spook address (e.g. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</source>
+        <translation>Entrer une adresse Spook (e.g. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1856,8 +1856,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid GhostCoin address</source>
-        <translation>AVERTISSEMENT: Adresse GhostCoin Invalide</translation>
+        <source>WARNING: Invalid Spook address</source>
+        <translation>AVERTISSEMENT: Adresse Spook Invalide</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1867,7 +1867,7 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <message>
         <location line="+4"/>
         <source>WARNING: unknown change address</source>
-        <translation>AVERTISSEMET: Adresse GhostCoin Invalide</translation>
+        <translation>AVERTISSEMET: Adresse Spook Invalide</translation>
     </message>
 </context>
 <context>
@@ -1930,8 +1930,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a GhostCoin address (e.g. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</source>
-        <translation>Entrer une adresse GhostCoin (e.g. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</translation>
+        <source>Enter a Spook address (e.g. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</source>
+        <translation>Entrer une adresse Spook (e.g. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</translation>
     </message>
 </context>
 <context>
@@ -1955,7 +1955,7 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <message>
         <location line="+18"/>
         <source>The address to sign the message with (e.g. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</source>
-        <translation>Entrer une adresse GhostCoin (e.g. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</translation>
+        <translation>Entrer une adresse Spook (e.g. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1991,8 +1991,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this GhostCoin address</source>
-        <translation>Signer le message afin de prouver l&apos;identité de votre adresse GhostCoin</translation>
+        <source>Sign the message to prove you own this Spook address</source>
+        <translation>Signer le message afin de prouver l&apos;identité de votre adresse Spook</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2023,8 +2023,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified GhostCoin address</source>
-        <translation>Vérifier un message pour s&apos;assurer qu&apos;il vient d&apos;un adresse GhostCoin spécifique.</translation>
+        <source>Verify the message to ensure it was signed with the specified Spook address</source>
+        <translation>Vérifier un message pour s&apos;assurer qu&apos;il vient d&apos;un adresse Spook spécifique.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2034,8 +2034,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a GhostCoin address (e.g. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</source>
-        <translation>Entrer une adresse GhostCoin (e.g. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</translation>
+        <source>Enter a Spook address (e.g. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</source>
+        <translation>Entrer une adresse Spook (e.g. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2044,8 +2044,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter GhostCoin signature</source>
-        <translation>Entrer une signature GhostCoin</translation>
+        <source>Enter Spook signature</source>
+        <translation>Entrer une signature Spook</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2615,8 +2615,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>GhostCoin version</source>
-        <translation>Version GhostCoin</translation>
+        <source>Spook version</source>
+        <translation>Version Spook</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2625,8 +2625,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or ghostcoind</source>
-        <translation>Envoyer commande à -server ou ghostcoind</translation>
+        <source>Send command to -server or spookd</source>
+        <translation>Envoyer commande à -server ou spookd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2645,13 +2645,13 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: ghostcoin.conf)</source>
-        <translation>Spécifier le fichier de configuration (defaut: ghostcoin.conf)</translation>
+        <source>Specify configuration file (default: spook.conf)</source>
+        <translation>Spécifier le fichier de configuration (defaut: spook.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: ghostcoind.pid)</source>
-        <translation>Spécifier le fichier pid (defaut: ghostcoind.pid)
+        <source>Specify pid file (default: spookd.pid)</source>
+        <translation>Spécifier le fichier pid (defaut: spookd.pid)
 </translation>
     </message>
     <message>
@@ -2801,8 +2801,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong GhostCoin will not work properly.</source>
-        <translation>Avertissement: Veuillez vérifier la date et l&apos;heure de votre ordinateur. GhostCoin ne pourra pas fonctionner correctement si l&apos;horloge est réglée de façon incorrecte</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Spook will not work properly.</source>
+        <translation>Avertissement: Veuillez vérifier la date et l&apos;heure de votre ordinateur. Spook ne pourra pas fonctionner correctement si l&apos;horloge est réglée de façon incorrecte</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2991,24 +2991,24 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=ghostcoinrpc
+rpcuser=spookrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;GhostCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Spook Alert&quot; admin@foo.com
 </source>
         <translation>%s, vous devez définir un mot de passe rpc &apos;rpcpassword&apos; au sein du fichier de configuration:
  %s
 Il est recommandé d&apos;utiliser le mot de passe aléatoire suivant:
-rpcuser=ghostcoinrpc
+rpcuser=spookrpc
 rpcpassword=%s
 (il n&apos;est pas nécessaire de retenir ce mot de passe)
 Le nom d&apos;utilisateur et le mot de passe doivent IMPERATIVEMENT être différents.
 Si le fichier n&apos;existe pas, il est nécessaire de le créer, avec les droit de lecture au propriétaire seulement.
 Il est également recommandé d&apos;utiliser l&apos;option alertnotify afin d&apos;être notifié des problèmes;
-par exemple: alertnotify=echo %%s | mail -s &quot;Alerte GhostCoin&quot; admin@foo.com
+par exemple: alertnotify=echo %%s | mail -s &quot;Alerte Spook&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3133,13 +3133,13 @@ par exemple: alertnotify=echo %%s | mail -s &quot;Alerte GhostCoin&quot; admin@f
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  GhostCoin is probably already running.</source>
-        <translation>Echec lors de la tentative de verrouillage des données du répertoire %s. L&apos;application GhostCoin est probablement déjà en cours d&apos;exécution</translation>
+        <source>Cannot obtain a lock on data directory %s.  Spook is probably already running.</source>
+        <translation>Echec lors de la tentative de verrouillage des données du répertoire %s. L&apos;application Spook est probablement déjà en cours d&apos;exécution</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>GhostCoin</source>
-        <translation>GhostCoin</translation>
+        <source>Spook</source>
+        <translation>Spook</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3173,13 +3173,13 @@ par exemple: alertnotify=echo %%s | mail -s &quot;Alerte GhostCoin&quot; admin@f
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of GhostCoin</source>
-        <translation>Erreur de chargement du fichier wallet.dat: le portefeuille nécessite une version plus récente de l&apos;application GhostCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Spook</source>
+        <translation>Erreur de chargement du fichier wallet.dat: le portefeuille nécessite une version plus récente de l&apos;application Spook</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart GhostCoin to complete</source>
-        <translation>le portefeuille nécessite d&apos;être réédité : Merci de relancer l&apos;application GhostCoin</translation>
+        <source>Wallet needed to be rewritten: restart Spook to complete</source>
+        <translation>le portefeuille nécessite d&apos;être réédité : Merci de relancer l&apos;application Spook</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3248,8 +3248,8 @@ par exemple: alertnotify=echo %%s | mail -s &quot;Alerte GhostCoin&quot; admin@f
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. GhostCoin is probably already running.</source>
-        <translation>Connexion au port %s impossible. L&apos;application GhostCoin est probablement déjà en cours d&apos;exécution</translation>
+        <source>Unable to bind to %s on this computer. Spook is probably already running.</source>
+        <translation>Connexion au port %s impossible. L&apos;application Spook est probablement déjà en cours d&apos;exécution</translation>
     </message>
     <message>
         <location line="-97"/>

@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About GhostCoin</source>
+        <source>About Spook</source>
         <translation>Tietoa Blackcoinista</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;GhostCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;GhostCoin&lt;/b&gt; versio</translation>
+        <source>&lt;b&gt;Spook&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Spook&lt;/b&gt; versio</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The GhostCoin developers</source>
+Copyright © 2014 The Spook developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -64,8 +64,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your GhostCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Nämä ovat GhostCoin-osoitteesi rahansiirtojen vastaanottoa varten. Jos haluat, voit antaa jokaiselle lähettäjälle oman osoitteen jotta voit pitää kirjaa sinulle rahaa siirtäneistä henkilöistä.</translation>
+        <source>These are your Spook addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Nämä ovat Spook-osoitteesi rahansiirtojen vastaanottoa varten. Jos haluat, voit antaa jokaiselle lähettäjälle oman osoitteen jotta voit pitää kirjaa sinulle rahaa siirtäneistä henkilöistä.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -79,8 +79,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a GhostCoin address</source>
-        <translation>Allekirjoita viesti osoittaaksesi GhostCoin-osoitteesi omistajuus</translation>
+        <source>Sign a message to prove you own a Spook address</source>
+        <translation>Allekirjoita viesti osoittaaksesi Spook-osoitteesi omistajuus</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -94,8 +94,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified GhostCoin address</source>
-        <translation>Vahvista viesti varmistaaksesi että kyseinen GhostCoin-osoitteesi on allekirjoittanut sen</translation>
+        <source>Verify a message to ensure it was signed with a specified Spook address</source>
+        <translation>Vahvista viesti varmistaaksesi että kyseinen Spook-osoitteesi on allekirjoittanut sen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -262,8 +262,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-58"/>
-        <source>GhostCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>GhostCoin-ohjelma sulkee itsensä päättääkseen salauksen luonnin. Muista, että lompakon salaaminen ei täysin turvaa kolikoitasi haittaohjelmien aiheuttamien varkauksien uhalta.</translation>
+        <source>Spook will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Spook-ohjelma sulkee itsensä päättääkseen salauksen luonnin. Muista, että lompakon salaaminen ei täysin turvaa kolikoitasi haittaohjelmien aiheuttamien varkauksien uhalta.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -376,8 +376,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about GhostCoin</source>
-        <translation>Näytä tietoja GhostCoinista</translation>
+        <source>Show information about Spook</source>
+        <translation>Näytä tietoja Spookista</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -426,13 +426,13 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a GhostCoin address</source>
-        <translation>Lähetä kolikkoja GhostCoin osoitteeseen</translation>
+        <source>Send coins to a Spook address</source>
+        <translation>Lähetä kolikkoja Spook osoitteeseen</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for GhostCoin</source>
-        <translation>Mukauta GhostCoinin konfigurointiasetuksia</translation>
+        <source>Modify configuration options for Spook</source>
+        <translation>Mukauta Spookin konfigurointiasetuksia</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -471,8 +471,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-200"/>
-        <source>GhostCoin</source>
-        <translation>GhostCoin</translation>
+        <source>Spook</source>
+        <translation>Spook</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -481,8 +481,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About GhostCoin</source>
-        <translation>&amp;Tietoa GhostCoinista</translation>
+        <source>&amp;About Spook</source>
+        <translation>&amp;Tietoa Spookista</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -538,13 +538,13 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>GhostCoin client</source>
-        <translation>GhostCoin-asiakas</translation>
+        <source>Spook client</source>
+        <translation>Spook-asiakas</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to GhostCoin network</source>
-        <translation><numerusform>%n aktiivinen yhteys GhostCoin-verkkoon</numerusform><numerusform>%n aktiivista yhteyttä GhostCoin-verkkoon</numerusform></translation>
+        <source>%n active connection(s) to Spook network</source>
+        <translation><numerusform>%n aktiivinen yhteys Spook-verkkoon</numerusform><numerusform>%n aktiivista yhteyttä Spook-verkkoon</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -657,8 +657,8 @@ Osoite: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid GhostCoin address or malformed URI parameters.</source>
-        <translation>URI-merkkijonoa ei voida jäsentää! Tämä voi johtua väärästä GhostCoin-osoitteesta tai väärässä muodossa olevista URI-parametreistä.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Spook address or malformed URI parameters.</source>
+        <translation>URI-merkkijonoa ei voida jäsentää! Tämä voi johtua väärästä Spook-osoitteesta tai väärässä muodossa olevista URI-parametreistä.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -717,8 +717,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. GhostCoin can no longer continue safely and will quit.</source>
-        <translation>Vakava virhe kohdattu. GhostCoin-ohjelma ei voi enää jatkaa turvallisesti ja sulkee itsensä.</translation>
+        <source>A fatal error occurred. Spook can no longer continue safely and will quit.</source>
+        <translation>Vakava virhe kohdattu. Spook-ohjelma ei voi enää jatkaa turvallisesti ja sulkee itsensä.</translation>
     </message>
 </context>
 <context>
@@ -1051,8 +1051,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid GhostCoin address.</source>
-        <translation>Syöttämäsi osoite &quot;%1&quot; ei ole hyväksytty GhostCoin-osoite.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Spook address.</source>
+        <translation>Syöttämäsi osoite &quot;%1&quot; ei ole hyväksytty Spook-osoite.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1070,8 +1070,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>GhostCoin-Qt</source>
-        <translation>GhostCoin-Qt</translation>
+        <source>Spook-Qt</source>
+        <translation>Spook-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1143,13 +1143,13 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start GhostCoin after logging in to the system.</source>
-        <translation>Käynnistä GhostCoin-asiakasohjelma automaattisesti kun olet kirjautunut järjestelmään.</translation>
+        <source>Automatically start Spook after logging in to the system.</source>
+        <translation>Käynnistä Spook-asiakasohjelma automaattisesti kun olet kirjautunut järjestelmään.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start GhostCoin on system login</source>
-        <translation>%Käynnistä GhostCoin-asiakasohjelma kirjautuessasi</translation>
+        <source>&amp;Start Spook on system login</source>
+        <translation>%Käynnistä Spook-asiakasohjelma kirjautuessasi</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1168,8 +1168,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the GhostCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avaa GhostCoin-asiakkaalle automaattisesti portti reitittimestä. Tämä toimii vain, kun reitittimesi tukee UPnP:tä ja se on aktivoituna.</translation>
+        <source>Automatically open the Spook client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avaa Spook-asiakkaalle automaattisesti portti reitittimestä. Tämä toimii vain, kun reitittimesi tukee UPnP:tä ja se on aktivoituna.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1178,8 +1178,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the GhostCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Yhdistä GhostCoin-verkkoon SOCKS-välityspalvelimen lävitse. (esim. yhdistettäessä Tor:n läpi).</translation>
+        <source>Connect to the Spook network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Yhdistä Spook-verkkoon SOCKS-välityspalvelimen lävitse. (esim. yhdistettäessä Tor:n läpi).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1253,8 +1253,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting GhostCoin.</source>
-        <translation>Käyttöliittymän kieli voidaan valita tästä. Tämä asetus tulee voimaan vasta GhostCoin-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Spook.</source>
+        <translation>Käyttöliittymän kieli voidaan valita tästä. Tämä asetus tulee voimaan vasta Spook-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1268,8 +1268,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show GhostCoin addresses in the transaction list or not.</source>
-        <translation>Näytä tai piilota GhostCoin-osoitteet rahansiirtolistassa.</translation>
+        <source>Whether to show Spook addresses in the transaction list or not.</source>
+        <translation>Näytä tai piilota Spook-osoitteet rahansiirtolistassa.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1315,8 +1315,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting GhostCoin.</source>
-        <translation>Tämä asetus tulee voimaan vasta GhostCoin-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
+        <source>This setting will take effect after restarting Spook.</source>
+        <translation>Tämä asetus tulee voimaan vasta Spook-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1334,8 +1334,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the GhostCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Näytettävät tiedot voivat olla vanhentuneet. Lompakkosi synkronoituu automaattisesti GhostCoin-verkon kanssa kun yhteys on muodostettu, mutta tätä prosessia ei ole viety vielä päätökseen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Spook network after a connection is established, but this process has not completed yet.</source>
+        <translation>Näytettävät tiedot voivat olla vanhentuneet. Lompakkosi synkronoituu automaattisesti Spook-verkon kanssa kun yhteys on muodostettu, mutta tätä prosessia ei ole viety vielä päätökseen.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1550,8 +1550,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the GhostCoin-Qt help message to get a list with possible GhostCoin command-line options.</source>
-        <translation>Näytä GhostCoin-Qt:n avustusohje saadaksesi listan käytettävistä GhostCoinin komentokehotteen määritteistä.</translation>
+        <source>Show the Spook-Qt help message to get a list with possible Spook command-line options.</source>
+        <translation>Näytä Spook-Qt:n avustusohje saadaksesi listan käytettävistä Spookin komentokehotteen määritteistä.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1570,13 +1570,13 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>GhostCoin - Debug window</source>
-        <translation>GhostCoin - Debug-ikkuna</translation>
+        <source>Spook - Debug window</source>
+        <translation>Spook - Debug-ikkuna</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>GhostCoin Core</source>
-        <translation>GhostCoinin ydin</translation>
+        <source>Spook Core</source>
+        <translation>Spookin ydin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1585,8 +1585,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the GhostCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Avaa GhostCoin-asiakasohjelman debug-lokitiedosto nykyisestä hakemistostaan. Tämä voi kestää muutaman sekunnin avattaessa suuria lokitiedostoja.</translation>
+        <source>Open the Spook debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Avaa Spook-asiakasohjelman debug-lokitiedosto nykyisestä hakemistostaan. Tämä voi kestää muutaman sekunnin avattaessa suuria lokitiedostoja.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1595,8 +1595,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the GhostCoin RPC console.</source>
-        <translation>Tervetuloa GhostCoinin RPC-konsoliin.</translation>
+        <source>Welcome to the Spook RPC console.</source>
+        <translation>Tervetuloa Spookin RPC-konsoliin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1669,8 +1669,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 GHOST</source>
-        <translation>123.456 GHOST {0.00 ?}</translation>
+        <source>0.00 SPOOK</source>
+        <translation>123.456 SPOOK {0.00 ?}</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1739,8 +1739,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 GHOST</source>
-        <translation>123.456 GHOST</translation>
+        <source>123.456 SPOOK</source>
+        <translation>123.456 SPOOK</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1754,8 +1754,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a GhostCoin address (e.g. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</source>
-        <translation>Syötä GhostCoin-osoite (esim. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</translation>
+        <source>Enter a Spook address (e.g. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</source>
+        <translation>Syötä Spook-osoite (esim. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1854,8 +1854,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid GhostCoin address</source>
-        <translation>VAROITUS: Epäkelpo GhostCoin-osoite</translation>
+        <source>WARNING: Invalid Spook address</source>
+        <translation>VAROITUS: Epäkelpo Spook-osoite</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1928,8 +1928,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a GhostCoin address (e.g. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</source>
-        <translation>Syötä GhostCoin-osoite (esim. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</translation>
+        <source>Enter a Spook address (e.g. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</source>
+        <translation>Syötä Spook-osoite (esim. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</translation>
     </message>
 </context>
 <context>
@@ -1989,8 +1989,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this GhostCoin address</source>
-        <translation>Allekirjoita viesti vahvistaaksesi, että omistat tämän GhostCoin-osoitteen</translation>
+        <source>Sign the message to prove you own this Spook address</source>
+        <translation>Allekirjoita viesti vahvistaaksesi, että omistat tämän Spook-osoitteen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2021,8 +2021,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified GhostCoin address</source>
-        <translation>Vahvista viesti varmistaaksesi että se on allekirjoitettu kyseisellä GhostCoin-osoitteella</translation>
+        <source>Verify the message to ensure it was signed with the specified Spook address</source>
+        <translation>Vahvista viesti varmistaaksesi että se on allekirjoitettu kyseisellä Spook-osoitteella</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2032,8 +2032,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a GhostCoin address (e.g. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</source>
-        <translation>Syötä GhostCoin-osoite (esim. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</translation>
+        <source>Enter a Spook address (e.g. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</source>
+        <translation>Syötä Spook-osoite (esim. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2042,8 +2042,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter GhostCoin signature</source>
-        <translation>Syötä GhostCoin-allekirjoitus</translation>
+        <source>Enter Spook signature</source>
+        <translation>Syötä Spook-allekirjoitus</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2613,8 +2613,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>GhostCoin version</source>
-        <translation>GhostCoinin versio</translation>
+        <source>Spook version</source>
+        <translation>Spookin versio</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2623,8 +2623,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or ghostcoind</source>
-        <translation>Syötä komento kohteeseen -server tai ghostcoind</translation>
+        <source>Send command to -server or spookd</source>
+        <translation>Syötä komento kohteeseen -server tai spookd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2643,13 +2643,13 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: ghostcoin.conf)</source>
-        <translation>Määritä asetustiedosto (oletus: ghostcoin.conf)</translation>
+        <source>Specify configuration file (default: spook.conf)</source>
+        <translation>Määritä asetustiedosto (oletus: spook.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: ghostcoind.pid)</source>
-        <translation>Määritä prosessitiedosto (oletus: ghostcoin.pid)</translation>
+        <source>Specify pid file (default: spookd.pid)</source>
+        <translation>Määritä prosessitiedosto (oletus: spook.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2798,8 +2798,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong GhostCoin will not work properly.</source>
-        <translation>Varoitus: Tarkista, että tietokoneesi aika ja päivämäärä ovat oikeassa! Jos kellosi on väärässä, GhostCoin ei toimi oikein.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Spook will not work properly.</source>
+        <translation>Varoitus: Tarkista, että tietokoneesi aika ja päivämäärä ovat oikeassa! Jos kellosi on väärässä, Spook ei toimi oikein.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2988,23 +2988,23 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=ghostcoinrpc
+rpcuser=spookrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;GhostCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Spook Alert&quot; admin@foo.com
 </source>
         <translation>%s, sinun on asetettava rpcpassword asetustiedostoon:
 %s
 On suositeltavaa, että käytät seuraavaa arvottua salasanaa:
-rpcuser=ghostcoinrpc
+rpcuser=spookrpc
 rpcpassword=%s
 (Sinun ei tarvitse muistaa tätä salasanaa)
 Käyttäjänimen ja salasanan EI TULE OLLA SAMOJA.
 Jos tiedostoa ei ole olemassa, luo se asettaen samalla omistajan lukuoikeudet.
-On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; esimerkiksi: alertnotify=echo %%s | mail -s &quot;GhostCoin Alert&quot; admin@foo.com
+On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; esimerkiksi: alertnotify=echo %%s | mail -s &quot;Spook Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3129,13 +3129,13 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  GhostCoin is probably already running.</source>
-        <translation>Ei voida saavuttaa lukkoa datatiedostossa %s. GhostCoin-asiakasohjelma on ehkä jo käynnissä.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Spook is probably already running.</source>
+        <translation>Ei voida saavuttaa lukkoa datatiedostossa %s. Spook-asiakasohjelma on ehkä jo käynnissä.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>GhostCoin</source>
-        <translation>GhostCoin</translation>
+        <source>Spook</source>
+        <translation>Spook</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3169,13 +3169,13 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of GhostCoin</source>
-        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Lompakko tarvitsee uudemman version GhostCoin-asiakasohjelmasta</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Spook</source>
+        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Lompakko tarvitsee uudemman version Spook-asiakasohjelmasta</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart GhostCoin to complete</source>
-        <translation>Lompakko on kirjoitettava uudelleen: käynnistä GhostCoin-asiakasohjelma uudelleen päättääksesi toiminnon</translation>
+        <source>Wallet needed to be rewritten: restart Spook to complete</source>
+        <translation>Lompakko on kirjoitettava uudelleen: käynnistä Spook-asiakasohjelma uudelleen päättääksesi toiminnon</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3244,8 +3244,8 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. GhostCoin is probably already running.</source>
-        <translation>Ei voitu liittää %s tällä tietokoneella. GhostCoin-asiakasohjelma on jo ehkä päällä.</translation>
+        <source>Unable to bind to %s on this computer. Spook is probably already running.</source>
+        <translation>Ei voitu liittää %s tällä tietokoneella. Spook-asiakasohjelma on jo ehkä päällä.</translation>
     </message>
     <message>
         <location line="-97"/>

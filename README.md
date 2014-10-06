@@ -1,18 +1,18 @@
-GhostCoin development tree
+Spook development tree
 
-GhostCoin is a PoS-based cryptocurrency.
+Spook is a PoS-based cryptocurrency.
 
 Features:
-* Symbol: GHOST
+* Symbol: SPOOK
 * X11 PoW/PoS
 * 60 second blocktime
 * 20 Million PoW coins
-* 4,000 GHOST block reward
+* 4,000 SPOOK block reward
 * 5,000 PoW block limit (pure PoS after 5,000th PoW block)
 * Dynamic interest 1-3%, based on the amount of coins staked
 * P2P Port: 44677
 * RPC Port: 44678
-* Dedicated Node: seed.ghostcoin.org
+* Dedicated Node: seed.spook.org
 
 
 Development process
@@ -28,7 +28,7 @@ or are controversial.
 
 The master branch is regularly built and tested, but is not guaranteed
 to be completely stable. Tags are regularly created to indicate new
-stable release versions of GhostCoin.
+stable release versions of Spook.
 
 Feature branches are created when there are major new features being
 worked on by several people.

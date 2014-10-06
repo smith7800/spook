@@ -7,7 +7,7 @@ cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP
 software written by Thomas Bernard.
 
 
-See readme-qt.rst for instructions on building GhostCoin QT, the
+See readme-qt.rst for instructions on building Spook QT, the
 graphical user interface.
 
 WINDOWS BUILD NOTES
@@ -76,9 +76,9 @@ make -f Makefile.mingw
 mkdir miniupnpc
 cp *.h miniupnpc/
 
-GhostCoin
+Spook
 -------
 DOS prompt:
-cd \ghostcoin\src
+cd \spook\src
 mingw32-make -f makefile.mingw
-strip ghostcoind.exe
+strip spookd.exe

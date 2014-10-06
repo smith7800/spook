@@ -5,19 +5,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About GhostCoin</source>
-        <translation>About GhostCoin</translation>
+        <source>About Spook</source>
+        <translation>About Spook</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;GhostCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;GhostCoin&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;Spook&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Spook&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The GhostCoin developers</source>
+Copyright © 2014 The Spook developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -60,8 +60,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your GhostCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>These are your GhostCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
+        <source>These are your Spook addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>These are your Spook addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a GhostCoin address</source>
-        <translation>Sign a message to prove you own a GhostCoin address</translation>
+        <source>Sign a message to prove you own a Spook address</source>
+        <translation>Sign a message to prove you own a Spook address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified GhostCoin address</source>
-        <translation>Verify a message to ensure it was signed with a specified GhostCoin address</translation>
+        <source>Verify a message to ensure it was signed with a specified Spook address</source>
+        <translation>Verify a message to ensure it was signed with a specified Spook address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>GhostCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>GhostCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</translation>
+        <source>Spook will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Spook will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -372,8 +372,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about GhostCoin</source>
-        <translation>Show information about GhostCoin</translation>
+        <source>Show information about Spook</source>
+        <translation>Show information about Spook</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -425,13 +425,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a GhostCoin address</source>
-        <translation>Send coins to a GhostCoin address</translation>
+        <source>Send coins to a Spook address</source>
+        <translation>Send coins to a Spook address</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for GhostCoin</source>
-        <translation>Modify configuration options for GhostCoin</translation>
+        <source>Modify configuration options for Spook</source>
+        <translation>Modify configuration options for Spook</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -470,8 +470,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-200"/>
-        <source>GhostCoin</source>
-        <translation>GhostCoin</translation>
+        <source>Spook</source>
+        <translation>Spook</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -480,8 +480,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About GhostCoin</source>
-        <translation>&amp;About GhostCoin</translation>
+        <source>&amp;About Spook</source>
+        <translation>&amp;About Spook</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -537,15 +537,15 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>GhostCoin client</source>
-        <translation>GhostCoin client</translation>
+        <source>Spook client</source>
+        <translation>Spook client</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to GhostCoin network</source>
+        <source>%n active connection(s) to Spook network</source>
         <translation>
-            <numerusform>%n active connection to GhostCoin network</numerusform>
-            <numerusform>%n active connections to GhostCoin network</numerusform>
+            <numerusform>%n active connection to Spook network</numerusform>
+            <numerusform>%n active connections to Spook network</numerusform>
         </translation>
     </message>
     <message>
@@ -672,8 +672,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid GhostCoin address or malformed URI parameters.</source>
-        <translation>URI can not be parsed! This can be caused by an invalid GhostCoin address or malformed URI parameters.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Spook address or malformed URI parameters.</source>
+        <translation>URI can not be parsed! This can be caused by an invalid Spook address or malformed URI parameters.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -744,8 +744,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. GhostCoin can no longer continue safely and will quit.</source>
-        <translation>A fatal error occurred. GhostCoin can no longer continue safely and will quit.</translation>
+        <source>A fatal error occurred. Spook can no longer continue safely and will quit.</source>
+        <translation>A fatal error occurred. Spook can no longer continue safely and will quit.</translation>
     </message>
 </context>
 <context>
@@ -1064,8 +1064,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid GhostCoin address.</source>
-        <translation>The entered address &quot;%1&quot; is not a valid GhostCoin address.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Spook address.</source>
+        <translation>The entered address &quot;%1&quot; is not a valid Spook address.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1083,8 +1083,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>GhostCoin-Qt</source>
-        <translation>GhostCoin-Qt</translation>
+        <source>Spook-Qt</source>
+        <translation>Spook-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1156,13 +1156,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start GhostCoin after logging in to the system.</source>
-        <translation>Automatically start GhostCoin after logging in to the system.</translation>
+        <source>Automatically start Spook after logging in to the system.</source>
+        <translation>Automatically start Spook after logging in to the system.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start GhostCoin on system login</source>
-        <translation>&amp;Start GhostCoin on system login</translation>
+        <source>&amp;Start Spook on system login</source>
+        <translation>&amp;Start Spook on system login</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1171,8 +1171,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the GhostCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatically open the GhostCoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
+        <source>Automatically open the Spook client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatically open the Spook client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1181,8 +1181,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the GhostCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connect to the GhostCoin network through a SOCKS proxy (e.g. when connecting through Tor).</translation>
+        <source>Connect to the Spook network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connect to the Spook network through a SOCKS proxy (e.g. when connecting through Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1256,8 +1256,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting GhostCoin.</source>
-        <translation>The user interface language can be set here. This setting will take effect after restarting GhostCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Spook.</source>
+        <translation>The user interface language can be set here. This setting will take effect after restarting Spook.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1271,8 +1271,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show GhostCoin addresses in the transaction list or not.</source>
-        <translation>Whether to show GhostCoin addresses in the transaction list or not.</translation>
+        <source>Whether to show Spook addresses in the transaction list or not.</source>
+        <translation>Whether to show Spook addresses in the transaction list or not.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1318,8 +1318,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting GhostCoin.</source>
-        <translation>This setting will take effect after restarting GhostCoin.</translation>
+        <source>This setting will take effect after restarting Spook.</source>
+        <translation>This setting will take effect after restarting Spook.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1337,8 +1337,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the GhostCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the GhostCoin network after a connection is established, but this process has not completed yet.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Spook network after a connection is established, but this process has not completed yet.</source>
+        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the Spook network after a connection is established, but this process has not completed yet.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1553,8 +1553,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the GhostCoin-Qt help message to get a list with possible GhostCoin command-line options.</source>
-        <translation>Show the GhostCoin-Qt help message to get a list with possible GhostCoin command-line options.</translation>
+        <source>Show the Spook-Qt help message to get a list with possible Spook command-line options.</source>
+        <translation>Show the Spook-Qt help message to get a list with possible Spook command-line options.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1573,13 +1573,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>GhostCoin - Debug window</source>
-        <translation>GhostCoin - Debug window</translation>
+        <source>Spook - Debug window</source>
+        <translation>Spook - Debug window</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>GhostCoin Core</source>
-        <translation>GhostCoin Core</translation>
+        <source>Spook Core</source>
+        <translation>Spook Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1588,8 +1588,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the GhostCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open the GhostCoin debug log file from the current data directory. This can take a few seconds for large log files.</translation>
+        <source>Open the Spook debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open the Spook debug log file from the current data directory. This can take a few seconds for large log files.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1598,8 +1598,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the GhostCoin RPC console.</source>
-        <translation>Welcome to the GhostCoin RPC console.</translation>
+        <source>Welcome to the Spook RPC console.</source>
+        <translation>Welcome to the Spook RPC console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1672,8 +1672,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 GHOST</source>
-        <translation type="unfinished">123.456 GHOST {0.00 ?}</translation>
+        <source>0.00 SPOOK</source>
+        <translation type="unfinished">123.456 SPOOK {0.00 ?}</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1742,8 +1742,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 GHOST</source>
-        <translation>123.456 GHOST</translation>
+        <source>123.456 SPOOK</source>
+        <translation>123.456 SPOOK</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1757,8 +1757,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a GhostCoin address (e.g. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</source>
-        <translation>Enter a GhostCoin address (e.g. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</translation>
+        <source>Enter a Spook address (e.g. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</source>
+        <translation>Enter a Spook address (e.g. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1857,7 +1857,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid GhostCoin address</source>
+        <source>WARNING: Invalid Spook address</source>
         <translation></translation>
     </message>
     <message>
@@ -1931,8 +1931,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a GhostCoin address (e.g. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</source>
-        <translation>Enter a GhostCoin address (e.g. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</translation>
+        <source>Enter a Spook address (e.g. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</source>
+        <translation>Enter a Spook address (e.g. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</translation>
     </message>
 </context>
 <context>
@@ -1992,8 +1992,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this GhostCoin address</source>
-        <translation>Sign the message to prove you own this GhostCoin address</translation>
+        <source>Sign the message to prove you own this Spook address</source>
+        <translation>Sign the message to prove you own this Spook address</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2024,8 +2024,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified GhostCoin address</source>
-        <translation>Verify the message to ensure it was signed with the specified GhostCoin address</translation>
+        <source>Verify the message to ensure it was signed with the specified Spook address</source>
+        <translation>Verify the message to ensure it was signed with the specified Spook address</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2035,8 +2035,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a GhostCoin address (e.g. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</source>
-        <translation>Enter a GhostCoin address (e.g. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</translation>
+        <source>Enter a Spook address (e.g. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</source>
+        <translation>Enter a Spook address (e.g. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2045,8 +2045,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter GhostCoin signature</source>
-        <translation>Enter GhostCoin signature</translation>
+        <source>Enter Spook signature</source>
+        <translation>Enter Spook signature</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2628,8 +2628,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>GhostCoin version</source>
-        <translation>GhostCoin version</translation>
+        <source>Spook version</source>
+        <translation>Spook version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2638,8 +2638,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or ghostcoind</source>
-        <translation>Send command to -server or ghostcoind</translation>
+        <source>Send command to -server or spookd</source>
+        <translation>Send command to -server or spookd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2658,13 +2658,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: ghostcoin.conf)</source>
-        <translation>Specify configuration file (default: ghostcoin.conf)</translation>
+        <source>Specify configuration file (default: spook.conf)</source>
+        <translation>Specify configuration file (default: spook.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: ghostcoind.pid)</source>
-        <translation>Specify pid file (default: ghostcoind.pid)</translation>
+        <source>Specify pid file (default: spookd.pid)</source>
+        <translation>Specify pid file (default: spookd.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2803,8 +2803,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong GhostCoin will not work properly.</source>
-        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong GhostCoin will not work properly.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Spook will not work properly.</source>
+        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Spook will not work properly.</translation>
     </message>
     <message>
         <location line="-30"/>
@@ -2992,13 +2992,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=ghostcoinrpc
+rpcuser=spookrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;GhostCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Spook Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"></translation>
     </message>
@@ -3104,7 +3104,7 @@ for example: alertnotify=echo %%s | mail -s &quot;GhostCoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+8"/>
-        <source>Initialization sanity check failed. GhostCoin is shutting down.</source>
+        <source>Initialization sanity check failed. Spook is shutting down.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3129,13 +3129,13 @@ for example: alertnotify=echo %%s | mail -s &quot;GhostCoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  GhostCoin is probably already running.</source>
-        <translation>Cannot obtain a lock on data directory %s.  GhostCoin is probably already running.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Spook is probably already running.</source>
+        <translation>Cannot obtain a lock on data directory %s.  Spook is probably already running.</translation>
     </message>
     <message>
         <location line="-96"/>
-        <source>GhostCoin</source>
-        <translation>GhostCoin</translation>
+        <source>Spook</source>
+        <translation>Spook</translation>
     </message>
     <message>
         <location line="+137"/>
@@ -3169,13 +3169,13 @@ for example: alertnotify=echo %%s | mail -s &quot;GhostCoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of GhostCoin</source>
-        <translation>Error loading wallet.dat: Wallet requires newer version of GhostCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Spook</source>
+        <translation>Error loading wallet.dat: Wallet requires newer version of Spook</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart GhostCoin to complete</source>
-        <translation>Wallet needed to be rewritten: restart GhostCoin to complete</translation>
+        <source>Wallet needed to be rewritten: restart Spook to complete</source>
+        <translation>Wallet needed to be rewritten: restart Spook to complete</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3244,8 +3244,8 @@ for example: alertnotify=echo %%s | mail -s &quot;GhostCoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+119"/>
-        <source>Unable to bind to %s on this computer. GhostCoin is probably already running.</source>
-        <translation>Unable to bind to %s on this computer. GhostCoin is probably already running.</translation>
+        <source>Unable to bind to %s on this computer. Spook is probably already running.</source>
+        <translation>Unable to bind to %s on this computer. Spook is probably already running.</translation>
     </message>
     <message>
         <location line="-97"/>

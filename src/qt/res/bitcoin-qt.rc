@@ -18,14 +18,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "GhostCoin"
-            VALUE "FileDescription",    "GhostCoin-Qt (OSS GUI client for GhostCoin)"
+            VALUE "CompanyName",        "Spook"
+            VALUE "FileDescription",    "Spook-Qt (OSS GUI client for Spook)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "ghostcoin-qt"
-            VALUE "LegalCopyright",     "2009-2014 The Bitcoin developers, 2012-2014 The NovaCoin & PPCoin developers, 2014 The GhostCoin developers"
+            VALUE "InternalName",       "spook-qt"
+            VALUE "LegalCopyright",     "2009-2014 The Bitcoin developers, 2012-2014 The NovaCoin & PPCoin developers, 2014 The Spook developers"
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "ghostcoin-qt.exe"
-            VALUE "ProductName",        "GhostCoin-Qt"
+            VALUE "OriginalFilename",   "spook-qt.exe"
+            VALUE "ProductName",        "Spook-Qt"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

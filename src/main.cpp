@@ -69,7 +69,7 @@ map<uint256, set<uint256> > mapOrphanTransactionsByPrev;
 // Constant stuff for coinbase transactions we create:
 CScript COINBASE_FLAGS;
 
-const string strMessageMagic = "GhostCoin Signed Message:\n";
+const string strMessageMagic = "Spook Signed Message:\n";
 
 // Settings
 int64_t nTransactionFee = MIN_TX_FEE;
@@ -2562,7 +2562,7 @@ bool CheckDiskSpace(uint64_t nAdditionalBytes)
         string strMessage = _("Warning: Disk space is low!");
         strMiscWarning = strMessage;
         printf("*** %s\n", strMessage.c_str());
-        uiInterface.ThreadSafeMessageBox(strMessage, "GhostCoin", CClientUIInterface::OK | CClientUIInterface::ICON_EXCLAMATION | CClientUIInterface::MODAL);
+        uiInterface.ThreadSafeMessageBox(strMessage, "Spook", CClientUIInterface::OK | CClientUIInterface::ICON_EXCLAMATION | CClientUIInterface::MODAL);
         StartShutdown();
         return false;
     }
@@ -2678,9 +2678,9 @@ bool LoadBlockIndex(bool fAllowNew)
 
 
 
-        const char* pszTimestamp = "3 Oct 2014 Silk Road: One Year On";
+        const char* pszTimestamp = "6 Oct 2014 Silk Road: One Year On";
         CTransaction txNew;
-        txNew.nTime = 1412403092;
+        txNew.nTime = 1412572373;
         txNew.vin.resize(1);
         txNew.vout.resize(1);
         txNew.vin[0].scriptSig = CScript() << 0 << CBigNum(42) << vector<unsigned char>((const unsigned char*)pszTimestamp, (const unsigned char*)pszTimestamp + strlen(pszTimestamp));
@@ -2690,7 +2690,7 @@ bool LoadBlockIndex(bool fAllowNew)
         block.hashPrevBlock = 0;
         block.hashMerkleRoot = block.BuildMerkleTree();
         block.nVersion = 1;
-        block.nTime    = 1412403092;
+        block.nTime    = 1412572373;
         block.nBits    = bnProofOfWorkLimit.GetCompact();
         // genesis block miner
 

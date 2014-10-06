@@ -1,4 +1,4 @@
-Name GhostCoin
+Name Spook
 
 RequestExecutionLevel highest
 SetCompressor /SOLID lzma
@@ -6,8 +6,8 @@ SetCompressor /SOLID lzma
 # General Symbol Definitions
 !define REGKEY "SOFTWARE\$(^Name)"
 !define VERSION 1.0.0.0
-!define COMPANY "GhostCoin project"
-!define URL http://ghostcoin.org
+!define COMPANY "Spook project"
+!define URL http://spook.org
 
 # MUI Symbol Definitions
 !define MUI_ICON "..\share\pixmaps\favicon.ico"
@@ -19,8 +19,8 @@ SetCompressor /SOLID lzma
 !define MUI_STARTMENUPAGE_REGISTRY_ROOT HKLM
 !define MUI_STARTMENUPAGE_REGISTRY_KEY ${REGKEY}
 !define MUI_STARTMENUPAGE_REGISTRY_VALUENAME StartMenuGroup
-!define MUI_STARTMENUPAGE_DEFAULTFOLDER GhostCoin
-!define MUI_FINISHPAGE_RUN $INSTDIR\ghostcoin-qt.exe
+!define MUI_STARTMENUPAGE_DEFAULTFOLDER Spook
+!define MUI_FINISHPAGE_RUN $INSTDIR\spook-qt.exe
 !define MUI_UNICON "${NSISDIR}\Contrib\Graphics\Icons\modern-uninstall.ico"
 !define MUI_UNWELCOMEFINISHPAGE_BITMAP "..\share\pixmaps\nsis-wizard.bmp"
 !define MUI_UNFINISHPAGE_NOAUTOCLOSE
@@ -45,14 +45,14 @@ Var StartMenuGroup
 !insertmacro MUI_LANGUAGE English
 
 # Installer attributes
-OutFile ghostcoin-${VERSION}-win32-setup.exe
-InstallDir $PROGRAMFILES\GhostCoin
+OutFile spook-${VERSION}-win32-setup.exe
+InstallDir $PROGRAMFILES\Spook
 CRCCheck on
 XPStyle on
 BrandingText " "
 ShowInstDetails show
 VIProductVersion ${VERSION}
-VIAddVersionKey ProductName GhostCoin
+VIAddVersionKey ProductName Spook
 VIAddVersionKey ProductVersion "${VERSION}"
 VIAddVersionKey CompanyName "${COMPANY}"
 VIAddVersionKey CompanyWebsite "${URL}"
@@ -66,7 +66,7 @@ ShowUninstDetails show
 Section -Main SEC0000
     SetOutPath $INSTDIR
     SetOverwrite on
-    File ..\release\ghostcoin-qt.exe
+    File ..\release\spook-qt.exe
     File /oname=license.txt ..\COPYING
     File /oname=readme.txt ..\doc\README_windows.txt
     #SetOutPath $INSTDIR\daemon
@@ -84,8 +84,8 @@ Section -post SEC0001
     WriteUninstaller $INSTDIR\uninstall.exe
     !insertmacro MUI_STARTMENU_WRITE_BEGIN Application
     CreateDirectory $SMPROGRAMS\$StartMenuGroup
-    CreateShortcut "$SMPROGRAMS\$StartMenuGroup\GhostCoin.lnk" $INSTDIR\ghostcoin-qt.exe
-    CreateShortcut "$SMPROGRAMS\$StartMenuGroup\Uninstall GhostCoin.lnk" $INSTDIR\uninstall.exe
+    CreateShortcut "$SMPROGRAMS\$StartMenuGroup\Spook.lnk" $INSTDIR\spook-qt.exe
+    CreateShortcut "$SMPROGRAMS\$StartMenuGroup\Uninstall Spook.lnk" $INSTDIR\uninstall.exe
     !insertmacro MUI_STARTMENU_WRITE_END
     WriteRegStr HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" DisplayName "$(^Name)"
     WriteRegStr HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" DisplayVersion "${VERSION}"
@@ -95,10 +95,10 @@ Section -post SEC0001
     WriteRegStr HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" UninstallString $INSTDIR\uninstall.exe
     WriteRegDWORD HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" NoModify 1
     WriteRegDWORD HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" NoRepair 1
-    WriteRegStr HKCR "ghostcoin" "URL Protocol" ""
-    WriteRegStr HKCR "ghostcoin" "" "URL:Litecoin"
-    WriteRegStr HKCR "ghostcoin\DefaultIcon" "" $INSTDIR\ghostcoin-qt.exe
-    WriteRegStr HKCR "ghostcoin\shell\open\command" "" '"$INSTDIR\ghostcoin-qt.exe" "%1"'
+    WriteRegStr HKCR "spook" "URL Protocol" ""
+    WriteRegStr HKCR "spook" "" "URL:Litecoin"
+    WriteRegStr HKCR "spook\DefaultIcon" "" $INSTDIR\spook-qt.exe
+    WriteRegStr HKCR "spook\shell\open\command" "" '"$INSTDIR\spook-qt.exe" "%1"'
 
 SectionEnd
 
@@ -117,7 +117,7 @@ done${UNSECTION_ID}:
 
 # Uninstaller sections
 Section /o -un.Main UNSEC0000
-    Delete /REBOOTOK $INSTDIR\ghostcoin-qt.exe
+    Delete /REBOOTOK $INSTDIR\spook-qt.exe
     Delete /REBOOTOK $INSTDIR\license.txt
     Delete /REBOOTOK $INSTDIR\readme.txt
     #RMDir /r /REBOOTOK $INSTDIR\daemon
@@ -127,9 +127,9 @@ SectionEnd
 
 Section -un.post UNSEC0001
     DeleteRegKey HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)"
-    Delete /REBOOTOK "$SMPROGRAMS\$StartMenuGroup\Uninstall GhostCoin.lnk"
-    Delete /REBOOTOK "$SMPROGRAMS\$StartMenuGroup\GhostCoin.lnk"
-    Delete /REBOOTOK "$SMSTARTUP\GhostCoin.lnk"
+    Delete /REBOOTOK "$SMPROGRAMS\$StartMenuGroup\Uninstall Spook.lnk"
+    Delete /REBOOTOK "$SMPROGRAMS\$StartMenuGroup\Spook.lnk"
+    Delete /REBOOTOK "$SMSTARTUP\Spook.lnk"
     Delete /REBOOTOK $INSTDIR\uninstall.exe
     Delete /REBOOTOK $INSTDIR\debug.log
     Delete /REBOOTOK $INSTDIR\db.log
@@ -137,7 +137,7 @@ Section -un.post UNSEC0001
     DeleteRegValue HKCU "${REGKEY}" Path
     DeleteRegKey /IfEmpty HKCU "${REGKEY}\Components"
     DeleteRegKey /IfEmpty HKCU "${REGKEY}"
-    DeleteRegKey HKCR "ghostcoin"
+    DeleteRegKey HKCR "spook"
     RmDir /REBOOTOK $SMPROGRAMS\$StartMenuGroup
     RmDir /REBOOTOK $INSTDIR
     Push $R0

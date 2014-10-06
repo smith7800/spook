@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About GhostCoin</source>
-        <translation>Sobre GhostCoin</translation>
+        <source>About Spook</source>
+        <translation>Sobre Spook</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;GhostCoin&lt;/b&gt; version</source>
-        <translation>versió &lt;b&gt;GhostCoin&lt;/b&gt;</translation>
+        <source>&lt;b&gt;Spook&lt;/b&gt; version</source>
+        <translation>versió &lt;b&gt;Spook&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The GhostCoin developers</source>
+Copyright © 2014 The Spook developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The GhostCoin developers</translation>
+Copyright © 2014 The Spook developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,8 +60,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your GhostCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Aquestes són les teves adreces de GhostCoin per rebre els pagaments. És possible que vulgueu donar una diferent a cada remitent per a poder realitzar un seguiment de qui li está pagant.</translation>
+        <source>These are your Spook addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Aquestes són les teves adreces de Spook per rebre els pagaments. És possible que vulgueu donar una diferent a cada remitent per a poder realitzar un seguiment de qui li está pagant.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a GhostCoin address</source>
-        <translation>Signar un missatge per demostrar que és propietari d&apos;una adreça GhostCoin</translation>
+        <source>Sign a message to prove you own a Spook address</source>
+        <translation>Signar un missatge per demostrar que és propietari d&apos;una adreça Spook</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified GhostCoin address</source>
-        <translation>Comproveu el missatge per assegurar-se que es va signar amb una adreça GhostCoin especificada.</translation>
+        <source>Verify a message to ensure it was signed with a specified Spook address</source>
+        <translation>Comproveu el missatge per assegurar-se que es va signar amb una adreça Spook especificada.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>GhostCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>GhostCoin tancarà ara per acabar el procés de xifrat. Recordeu que l&apos;encriptació del seu moneder no pot protegir completament les seves monedes de ser robades pel malware que pugui infectar al seu equip.</translation>
+        <source>Spook will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Spook tancarà ara per acabar el procés de xifrat. Recordeu que l&apos;encriptació del seu moneder no pot protegir completament les seves monedes de ser robades pel malware que pugui infectar al seu equip.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -372,8 +372,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about GhostCoin</source>
-        <translation>Mostra informació sobre GhostCoin</translation>
+        <source>Show information about Spook</source>
+        <translation>Mostra informació sobre Spook</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -422,13 +422,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a GhostCoin address</source>
-        <translation>Enviar monedes a una adreça GhostCoin</translation>
+        <source>Send coins to a Spook address</source>
+        <translation>Enviar monedes a una adreça Spook</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for GhostCoin</source>
-        <translation>Modificar les opcions de configuració per a GhostCoin</translation>
+        <source>Modify configuration options for Spook</source>
+        <translation>Modificar les opcions de configuració per a Spook</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -467,8 +467,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-200"/>
-        <source>GhostCoin</source>
-        <translation>GhostCoin</translation>
+        <source>Spook</source>
+        <translation>Spook</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -477,8 +477,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About GhostCoin</source>
-        <translation>&amp;Sobre GhostCoin</translation>
+        <source>&amp;About Spook</source>
+        <translation>&amp;Sobre Spook</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -534,13 +534,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>GhostCoin client</source>
-        <translation>Client GhostCoin</translation>
+        <source>Spook client</source>
+        <translation>Client Spook</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to GhostCoin network</source>
-        <translation><numerusform>%n conexió activa a la xarxa GhostCoin</numerusform><numerusform>%n conexions actives a la xarxa GhostCoin</numerusform></translation>
+        <source>%n active connection(s) to Spook network</source>
+        <translation><numerusform>%n conexió activa a la xarxa Spook</numerusform><numerusform>%n conexions actives a la xarxa Spook</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -650,8 +650,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid GhostCoin address or malformed URI parameters.</source>
-        <translation>l&apos;URI no es pot analitzar! Això pot ser causat per una adreça GhostCoin no vàlida o paràmetres URI malformats.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Spook address or malformed URI parameters.</source>
+        <translation>l&apos;URI no es pot analitzar! Això pot ser causat per una adreça Spook no vàlida o paràmetres URI malformats.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -710,8 +710,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. GhostCoin can no longer continue safely and will quit.</source>
-        <translation>S&apos;ha produït un error fatal. GhostCoin ja no pot continuar de forma segura i es tancarà.</translation>
+        <source>A fatal error occurred. Spook can no longer continue safely and will quit.</source>
+        <translation>S&apos;ha produït un error fatal. Spook ja no pot continuar de forma segura i es tancarà.</translation>
     </message>
 </context>
 <context>
@@ -1044,8 +1044,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid GhostCoin address.</source>
-        <translation>La direcció introduïda &quot;%1&quot; no és una adreça GhostCoin vàlida.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Spook address.</source>
+        <translation>La direcció introduïda &quot;%1&quot; no és una adreça Spook vàlida.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1063,8 +1063,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>GhostCoin-Qt</source>
-        <translation>GhostCoin-Qt</translation>
+        <source>Spook-Qt</source>
+        <translation>Spook-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1136,13 +1136,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start GhostCoin after logging in to the system.</source>
-        <translation>Inicia automàticament GhostCoin després d&apos;entrar en el sistema.</translation>
+        <source>Automatically start Spook after logging in to the system.</source>
+        <translation>Inicia automàticament Spook després d&apos;entrar en el sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start GhostCoin on system login</source>
-        <translation>&amp;Iniciar GhostCoin amb l&apos;inici de sessió</translation>
+        <source>&amp;Start Spook on system login</source>
+        <translation>&amp;Iniciar Spook amb l&apos;inici de sessió</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1161,8 +1161,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the GhostCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Obrir automàticament el port de client GhostCoin en el router. Això només funciona quan el router és compatible amb UPnP i està habilitat.</translation>
+        <source>Automatically open the Spook client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Obrir automàticament el port de client Spook en el router. Això només funciona quan el router és compatible amb UPnP i està habilitat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1171,8 +1171,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the GhostCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connecteu-vos a la xarxa GhostCoin través d&apos;un proxy SOCKS (per exemple, quan es connecta a través de Tor).</translation>
+        <source>Connect to the Spook network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connecteu-vos a la xarxa Spook través d&apos;un proxy SOCKS (per exemple, quan es connecta a través de Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1246,8 +1246,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting GhostCoin.</source>
-        <translation>L&apos;idioma de la interfície d&apos;usuari es pot configurar aquí. Aquesta configuració s&apos;aplicarà després de reiniciar GhostCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Spook.</source>
+        <translation>L&apos;idioma de la interfície d&apos;usuari es pot configurar aquí. Aquesta configuració s&apos;aplicarà després de reiniciar Spook.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1261,8 +1261,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show GhostCoin addresses in the transaction list or not.</source>
-        <translation>Per mostrar GhostCoin adreces a la llista de transaccions o no.</translation>
+        <source>Whether to show Spook addresses in the transaction list or not.</source>
+        <translation>Per mostrar Spook adreces a la llista de transaccions o no.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1308,8 +1308,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting GhostCoin.</source>
-        <translation>Aquesta configuració s&apos;aplicarà després de reiniciar GhostCoin.</translation>
+        <source>This setting will take effect after restarting Spook.</source>
+        <translation>Aquesta configuració s&apos;aplicarà després de reiniciar Spook.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1327,8 +1327,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the GhostCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>La informació mostrada pot estar fora de data. El seu moneder es sincronitza automàticament amb la xarxa GhostCoin després d&apos;establir una connexió, però aquest procés no s&apos;ha completat encara.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Spook network after a connection is established, but this process has not completed yet.</source>
+        <translation>La informació mostrada pot estar fora de data. El seu moneder es sincronitza automàticament amb la xarxa Spook després d&apos;establir una connexió, però aquest procés no s&apos;ha completat encara.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1543,8 +1543,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the GhostCoin-Qt help message to get a list with possible GhostCoin command-line options.</source>
-        <translation>Mostra el missatge d&apos;ajuda de GhostCoin-Qt per obtenir una llista amb les possibles opcions de línia d&apos;ordres GhostCoin.</translation>
+        <source>Show the Spook-Qt help message to get a list with possible Spook command-line options.</source>
+        <translation>Mostra el missatge d&apos;ajuda de Spook-Qt per obtenir una llista amb les possibles opcions de línia d&apos;ordres Spook.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1563,13 +1563,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>GhostCoin - Debug window</source>
-        <translation>GhostCoin - Finestra Depuració</translation>
+        <source>Spook - Debug window</source>
+        <translation>Spook - Finestra Depuració</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>GhostCoin Core</source>
-        <translation>Nucli GhostCoin</translation>
+        <source>Spook Core</source>
+        <translation>Nucli Spook</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1578,8 +1578,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the GhostCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Obriu el fitxer de registre de depuració GhostCoin des del directori de dades actual. Això pot trigar uns segons en els arxius de registre de grans dimensions.</translation>
+        <source>Open the Spook debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Obriu el fitxer de registre de depuració Spook des del directori de dades actual. Això pot trigar uns segons en els arxius de registre de grans dimensions.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1588,8 +1588,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the GhostCoin RPC console.</source>
-        <translation>Benvingut a la consola RPC de GhostCoin.</translation>
+        <source>Welcome to the Spook RPC console.</source>
+        <translation>Benvingut a la consola RPC de Spook.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1662,8 +1662,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 GHOST</source>
-        <translation>123.456 GHOST {0.00 ?}</translation>
+        <source>0.00 SPOOK</source>
+        <translation>123.456 SPOOK {0.00 ?}</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1732,8 +1732,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 GHOST</source>
-        <translation>123.456 GHOST</translation>
+        <source>123.456 SPOOK</source>
+        <translation>123.456 SPOOK</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1747,8 +1747,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a GhostCoin address (e.g. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</source>
-        <translation>Introdueix una adreça GhostCoin (p.ex. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</translation>
+        <source>Enter a Spook address (e.g. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</source>
+        <translation>Introdueix una adreça Spook (p.ex. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1847,8 +1847,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid GhostCoin address</source>
-        <translation>ADVERTÈNCIA: Direcció GhostCoin invàlida</translation>
+        <source>WARNING: Invalid Spook address</source>
+        <translation>ADVERTÈNCIA: Direcció Spook invàlida</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1921,8 +1921,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a GhostCoin address (e.g. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</source>
-        <translation>Introdueix una adreça GhostCoin (p.ex. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</translation>
+        <source>Enter a Spook address (e.g. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</source>
+        <translation>Introdueix una adreça Spook (p.ex. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</translation>
     </message>
 </context>
 <context>
@@ -1982,8 +1982,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this GhostCoin address</source>
-        <translation>Signar un missatge per demostrar que és propietari d&apos;aquesta adreça GhostCoin</translation>
+        <source>Sign the message to prove you own this Spook address</source>
+        <translation>Signar un missatge per demostrar que és propietari d&apos;aquesta adreça Spook</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2014,8 +2014,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified GhostCoin address</source>
-        <translation>Comproveu el missatge per assegurar-se que es va signar amb l&apos;adreça GhostCoin especificada.</translation>
+        <source>Verify the message to ensure it was signed with the specified Spook address</source>
+        <translation>Comproveu el missatge per assegurar-se que es va signar amb l&apos;adreça Spook especificada.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2025,8 +2025,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a GhostCoin address (e.g. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</source>
-        <translation>Introdueix una adreça GhostCoin (p.ex. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</translation>
+        <source>Enter a Spook address (e.g. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</source>
+        <translation>Introdueix una adreça Spook (p.ex. GphU6HbZCuDsx1nGWncuwxYdHcF74zLv8U)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2035,8 +2035,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter GhostCoin signature</source>
-        <translation>Introduïu la signatura GhostCoin</translation>
+        <source>Enter Spook signature</source>
+        <translation>Introduïu la signatura Spook</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2606,8 +2606,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>GhostCoin version</source>
-        <translation>versió GhostCoin</translation>
+        <source>Spook version</source>
+        <translation>versió Spook</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2616,8 +2616,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or ghostcoind</source>
-        <translation>Enviar comandes a -server o ghostcoind</translation>
+        <source>Send command to -server or spookd</source>
+        <translation>Enviar comandes a -server o spookd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2636,13 +2636,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: ghostcoin.conf)</source>
-        <translation>Especifiqueu el fitxer de configuració (per defecte: ghostcoin.conf)</translation>
+        <source>Specify configuration file (default: spook.conf)</source>
+        <translation>Especifiqueu el fitxer de configuració (per defecte: spook.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: ghostcoind.pid)</source>
-        <translation>Especificar arxiu pid (per defecte: ghostcoind.pid)</translation>
+        <source>Specify pid file (default: spookd.pid)</source>
+        <translation>Especificar arxiu pid (per defecte: spookd.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2791,8 +2791,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong GhostCoin will not work properly.</source>
-        <translation>Avís: Comproveu que la data i hora de l&apos;equip siguin correctes! Si el seu rellotge és erroni GhostCoin no funcionarà correctament.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Spook will not work properly.</source>
+        <translation>Avís: Comproveu que la data i hora de l&apos;equip siguin correctes! Si el seu rellotge és erroni Spook no funcionarà correctament.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2981,24 +2981,24 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=ghostcoinrpc
+rpcuser=spookrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;GhostCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Spook Alert&quot; admin@foo.com
 </source>
         <translation>%s, ha d&apos;establir un rpcpassword al fitxer de configuració:
 %s
 Es recomana utilitzar la següent contrasenya aleatòria:
-rpcuser=ghostcoinrpc
+rpcuser=spookrpc
 rpcpassword=%s
 (No cal recordar aquesta contrasenya)
 El nom d&apos;usuari i contrasenya NO HA DE SER el mateix.
 Si no hi ha l&apos;arxiu, s&apos;ha de crear amb els permisos de només lectura per al propietari.
 També es recomana establir alertnotify per a que se li notifiquin els problemes;
-per exemple: alertnotify=echo %%s | mail -s &quot;GhostCoin Alert&quot; admin@foo.com
+per exemple: alertnotify=echo %%s | mail -s &quot;Spook Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3124,13 +3124,13 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  GhostCoin is probably already running.</source>
-        <translation>No es pot obtenir un bloqueig en el directori de dades %s. GhostCoin probablement ja estigui en funcionament.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Spook is probably already running.</source>
+        <translation>No es pot obtenir un bloqueig en el directori de dades %s. Spook probablement ja estigui en funcionament.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>GhostCoin</source>
-        <translation>GhostCoin</translation>
+        <source>Spook</source>
+        <translation>Spook</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3164,13 +3164,13 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of GhostCoin</source>
-        <translation>Error en carregar wallet.dat: El moneder requereix la versió més recent de GhostCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Spook</source>
+        <translation>Error en carregar wallet.dat: El moneder requereix la versió més recent de Spook</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart GhostCoin to complete</source>
-        <translation>El moneder necessita ser reescrita: reiniciar GhostCoin per completar</translation>
+        <source>Wallet needed to be rewritten: restart Spook to complete</source>
+        <translation>El moneder necessita ser reescrita: reiniciar Spook per completar</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3239,8 +3239,8 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. GhostCoin is probably already running.</source>
-        <translation>No es pot enllaçar a %s en aquest equip. GhostCoin probablement ja estigui en funcionament.</translation>
+        <source>Unable to bind to %s on this computer. Spook is probably already running.</source>
+        <translation>No es pot enllaçar a %s en aquest equip. Spook probablement ja estigui en funcionament.</translation>
     </message>
     <message>
         <location line="-97"/>
